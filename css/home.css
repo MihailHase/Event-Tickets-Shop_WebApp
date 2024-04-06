@@ -1,0 +1,87 @@
+.w3-sidebar a {
+    font-family: "Roboto", sans-serif
+}
+
+body, h1, h2, h3, h4, h5, h6, .w3-wide {
+    font-family: "Montserrat", sans-serif;
+}
+
+.w3-row-padding {
+    margin: 0 -16px;
+}
+
+.w3-col {
+    float: left;
+    width: 33.33333%;
+    padding: 0 16px;
+    box-sizing: border-box;
+}
+
+.w3-container {
+    padding: 16px;
+    background-color: #f7f7f7;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 16px;
+    transition: transform 0.3s ease;
+}
+
+.w3-container:hover {
+    transform: translateY(-5px);
+}
+
+.event-title {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.event-price {
+    font-size: 24px;
+    color: #27ae60;
+    margin-bottom: 15px;
+}
+
+.event-details {
+    font-size: 16px;
+    color: #666;
+}
+
+.event-form {
+    margin-top: 15px;
+}
+
+.btn-block {
+    width: 100%;
+    display: block;
+}
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.message {
+    padding: 10px;
+    background-color: #dff0d8;
+    border: 1px solid #3c763d;
+    color: #3c763d;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+

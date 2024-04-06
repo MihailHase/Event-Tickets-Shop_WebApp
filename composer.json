@@ -1,0 +1,11 @@
+{
+  "name": "admin/project",
+  "autoload": {
+    "psr-4": {
+      "Admin\\Project\\": "src/"
+    }
+  },
+  "require": {
+    "stripe/stripe-php": "^13.15"
+  }
+}
